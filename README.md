@@ -1,24 +1,16 @@
-# README
+# ToyApp
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+The toy app consists of users and their associated microposts (thus constituting a minimalist Twitter-style app).
 
-Things you may want to cover:
+# Requirements
 
-* Ruby version
+* Ruby 2.7
+* Rails 6.1.4.6
+* Postgres 12.9
 
-* System dependencies
+# Developed on
+* Ubuntu MATE 20.04
 
-* Configuration
+By JeffMC
 
-* Database creation
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
